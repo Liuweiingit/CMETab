@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+
+Name: org.wit.rpt.ui.CMETab.class
+Tab-Widget: True
+
